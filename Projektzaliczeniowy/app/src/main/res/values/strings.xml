@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kawiarenka</string>
+
+    <!-- Adres e-mail – łatwo zmienić w jednym miejscu -->
+    <string name="order_email">biuro@kawiarenka.pl</string>
+
+    <!-- Nazwy i opisy produktów -->
+    <string name="product_cappuccino_name">Cappuccino</string>
+    <string name="product_cappuccino_desc">Espresso z mlekiem.</string>
+
+    <string name="product_latte_name">Latte</string>
+    <string name="product_latte_desc">Kawa z dużą ilością mleka.</string>
+
+    <string name="product_herbata_name">Herbata</string>
+    <string name="product_herbata_desc">Herbata z cytryną.</string>
+
+    <string name="product_croissant_name">Croissant</string>
+    <string name="product_croissant_desc">Rogal maślany.</string>
+
+    <string name="product_muffin_name">Muffin</string>
+    <string name="product_muffin_desc">Babeczka czekoladowa.</string>
+
+    <string name="product_ciastko_name">Ciastko owsiane</string>
+    <string name="product_ciastko_desc">Chrupiące ciastko.</string>
+
+    <!-- Etykiety formularza -->
+    <string name="label_product">Produkt:</string>
+    <string name="label_price">Cena:</string>
+    <string name="label_quantity">Ilość:</string>
+
+    <!-- Przyciski -->
+    <string name="btn_save">Zapisz zamówienie</string>
+    <string name="btn_send_email">Wyślij e-mail</string>
+    <string name="btn_order_now">Zamów</string>
+
+    <!-- Komunikaty -->
+    <string name="order_saved">Zamówienie zapisane</string>
+    <string name="email_subject">Zamówienie - Kawiarenka</string>
+</resources>
